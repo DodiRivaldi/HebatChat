@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "835876044079",
+    "firebase_url": "https://hebat-888da.firebaseio.com",
+    "project_id": "hebat-888da",
+    "storage_bucket": "hebat-888da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835876044079:android:bb6f651b49292737",
+        "android_client_info": {
+          "package_name": "easykampus.kampusdeveloper.com.hebatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835876044079-t1lkshs1j7otn314qrssaccrhb2gfulk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "easykampus.kampusdeveloper.com.hebatchat",
+            "certificate_hash": "A23F0DC1718DF010DB5663C58838A648175AE866"
+          }
+        },
+        {
+          "client_id": "835876044079-aq77mctq4rjb080na6lu7tak9l2eh0sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS4w4NlKYd1ko6iOdFFHwInvbjPkWu0YE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835876044079-aq77mctq4rjb080na6lu7tak9l2eh0sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
